@@ -3,4 +3,310 @@
     margin: auto;
     width: 1233px;
 }
+:root{
+    --Main-Red:#DD2242;
+    --mein-black:#010A20;
+    --mein-wite:#FFF;
+    --mein-gray:#E0E0E0;
+}
+
+.header-logo{
+    color: var(--mein-wite);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Roboto;
+    font-size: 23.961px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 80.5%; /* 19.288px */
+    letter-spacing: 0.315px;
+    text-transform: uppercase;
+}
+
+.header-addres{
+    color: var(--mein-wite);
+font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.header-indonesia{
+    color: var(--mein-wite);
+    font-family: Roboto;
+font-size: 120px;
+font-style: normal;
+font-weight: 900;
+line-height: 130px; /* 108.333% */
+text-transform: uppercase;
+}
+
+.header-dutton{
+    color:var(--mein-wite);
+text-align: center;
+font-family: DM Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 30px */
+}
+
+.header-text{
+    color: var(--mein-wite);
+    text-shadow: 0px 0px 4px rgba(0, 0, 0, 0.10);
+font-family: DM Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+.header-numer1{
+    color: var(--Main-Red);
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.header-lorem{
+    color: var(--mein-gray);
+font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+letter-spacing: 0.5px;
+}
+
+.header-title{
+    color: var(--mein-wite);
+    font-family: DM Sans;
+font-size: 26.409px;
+font-style: normal;
+font-weight: 700;
+line-height: 41.081px; /* 155.556% */
+}
+
+.mein-indonesia{
+    color: var(--mein-wite);
+font-family: DM Sans;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+line-height: 50px; /* 119.048% */
+}
+
+.main-lorem{
+    color: var(--mein-gray);
+    font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+letter-spacing: 0.18px;
+}
+
+.main-button{
+    color: var(--mein-wite);
+    font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 27px */
+}
+
+.mein-explore{
+    color: var(--mein-black);
+text-align: center;
+font-family: DM Sans;
+font-size: 50px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 75px */
+}
+
+.mein-numbers{
+    color:var(--mein-wite);
+text-align: center;
+font-family: DM Sans;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 90px */
+}
+
+.main-lorem2{
+    color: var(--mein-gray);
+font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+letter-spacing: 0.5px;
+}
+
+.mein-number{
+    color:var(--Main-Red);
+text-align: center;
+font-family: DM Sans;
+font-size: 42.137px;
+font-style: normal;
+font-weight: 700;
+line-height: 49.16px; /* 116.667% */
+letter-spacing: 0.386px;
+}
+
+.our-hills{
+    color: var(--mein-black);
+    font-family: DM Sans;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+line-height: 50px; 
+}
+
+.learn-more{
+    color: var(--mein-wite);
+    font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 27px */
+}
+
+.life{
+    color: var(--mein-wite);
+    font-family: DM Sans;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+line-height: 50px; /* 119.048% */
+}
+
+.City{
+    color: var(--mein-wite);
+    font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 27px */
+}
+
+.photo-galery{
+    color: var(--mein-black);
+    font-family: DM Sans;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 90px */
+}
+
+.photo-text{
+    color: var(--mein-gray);
+    font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+letter-spacing: 0.18px;
+}
+
+.Getting-there{
+    color: var(--mein-black);
+/* H2 */
+font-family: DM Sans;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 90px */
+}
+
+.hgg {
+    color: var(--White, #FFF);
+font-family: DM Sans;
+font-size: 26.409px;
+font-style: normal;
+font-weight: 500;
+line-height: 38.146px; /* 144.444% */
+}
+
+.hotel{
+    color: var(--mein-black);
+    font-family: DM Sans;
+font-size: 26.409px;
+font-style: normal;
+font-weight: 700;
+line-height: 41.081px; /* 155.556% */
+}
+
+.lorem-Bookings{
+    color: var(--mein-gray);
+font-family: DM Sans;
+font-size: 23.475px;
+font-style: normal;
+font-weight: 400;
+line-height: 38.146px; /* 162.5% */
+}
+
+.button-Bookings{
+    color: var(--mein-wite);
+    font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 27px */
+}
+
+.Explore{
+    color: var(--Main-Red);
+    font-family: Roboto;
+font-size: 23.961px;
+font-style: normal;
+font-weight: 900;
+line-height: 90.5%; /* 21.684px */
+letter-spacing: 0.315px;
+text-transform: uppercase;
+}
+
+.Indinesia{
+    color: var(--mein-wite);
+    font-family: Roboto;
+font-size: 23.961px;
+font-style: normal;
+font-weight: 900;
+line-height: 90.5%;
+letter-spacing: 0.315px;
+text-transform: uppercase;
+}
+
+.addres{
+    color: var(--mein-wite);
+    font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px; /* 155.556% */
+letter-spacing: 0.5px;
+}
+
+.hjhj{
+    color: var(--mein-wite);
+    font-family: DM Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px; /* 155.556% */
+letter-spacing: 0.5px;
+}
+
+
+
+
+
+
+
 
