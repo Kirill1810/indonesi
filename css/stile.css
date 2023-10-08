@@ -9,6 +9,22 @@
     --mein-wite:#FFF;
     --mein-gray:#E0E0E0;
 }
+header{
+    background-color:red;
+}
+
+.header{
+    display: flex;
+    padding-top: 40px;   
+}
+
+.addres{
+    padding-top:20px;
+    display: flex;
+    gap:78px;
+    
+
+}
 
 .header-logo{
     color: var(--mein-wite);
@@ -20,6 +36,8 @@
     line-height: 80.5%; /* 19.288px */
     letter-spacing: 0.315px;
     text-transform: uppercase;
+    width: 158px;
+    height: 58px;
 }
 
 .header-addres{
@@ -40,6 +58,8 @@ font-style: normal;
 font-weight: 900;
 line-height: 130px; /* 108.333% */
 text-transform: uppercase;
+width: 627px;
+height: 260px;
 }
 
 .header-dutton{
@@ -50,6 +70,11 @@ font-size: 20px;
 font-style: normal;
 font-weight: 700;
 line-height: 150%; /* 30px */
+background-color: var(--Main-Red);
+}
+
+.header-main{
+    display: flex; 
 }
 
 .header-text{
@@ -80,6 +105,8 @@ font-style: normal;
 font-weight: 400;
 line-height: 28px; /* 155.556% */
 letter-spacing: 0.5px;
+width: 210px;
+height: 46px;
 }
 
 .header-title{
@@ -90,6 +117,20 @@ font-style: normal;
 font-weight: 700;
 line-height: 41.081px; /* 155.556% */
 }
+.mein-photo{
+    width: 630px;
+    height: 460px;
+}
+
+.mein-ul1{
+    background-color: var(--mein-black) ;
+    display: fle;
+    margin-left: px;
+}
+.mein-ul2{
+    background-color: var(--mein-black) ;
+    display: fle;
+}
 
 .mein-indonesia{
     color: var(--mein-wite);
@@ -98,6 +139,14 @@ font-size: 42px;
 font-style: normal;
 font-weight: 700;
 line-height: 50px; /* 119.048% */
+width: 479px;
+height: 119px;
+}
+
+.mein-list{
+    background-color: blue;
+
+
 }
 
 .main-lorem{
@@ -108,6 +157,7 @@ font-style: normal;
 font-weight: 400;
 line-height: 28px; /* 155.556% */
 letter-spacing: 0.18px;
+width: 407px;
 }
 
 .main-button{
@@ -117,6 +167,7 @@ font-size: 18px;
 font-style: normal;
 font-weight: 700;
 line-height: 150%; /* 27px */
+background-color: var(--Main-Red);
 }
 
 .mein-explore{
@@ -147,6 +198,12 @@ font-style: normal;
 font-weight: 400;
 line-height: 28px; /* 155.556% */
 letter-spacing: 0.5px;
+width: 484px;
+text-align: center;
+
+}
+.adout-Country{
+    background-color: gray;
 }
 
 .mein-number{
