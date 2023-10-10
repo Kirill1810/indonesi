@@ -122,15 +122,139 @@ line-height: 41.081px; /* 155.556% */
     height: 460px;
 }
 
+
 .mein-ul1{
     background-color: var(--mein-black) ;
-    display: fle;
-    margin-left: px;
+    display: flex;
+
 }
+
+.ind1{
+    display: flex;
+    flex-direction: column;
+}
+
+.ind2{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.ind4{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.ind5{
+    display: flex;
+    justify-content: center;
+}
+
+
+.ind6{
+    display: flex;
+    justify-content: space-around;
+  
+}
+
+.ind8{
+    display: flex;
+    flex-direction: column;
+}
+
+.ind9{
+    display: flex;
+}
+
+.ind10{
+    display: flex;
+flex-direction: column;
+}
+
+.ind11{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .mein-ul2{
     background-color: var(--mein-black) ;
-    display: fle;
+    display: flex;
 }
+
+.lorem1{
+width: 484px;
+height: 102px;
+
+}
+
+.lorem2{
+    width: 340px;
+    height:70px ;
+}
+
+.lorem3{
+    width: 377px;
+    height: 70px;
+}
+
+.lorem4{
+    width: 340px;
+    height: 70px;
+}
+
+.our{
+    width: 470px;
+    height: 84px;
+    margin-left: 300px;
+}
+
+.mein-ul3{
+    display: flex;
+    justify-content: center;
+}
+
+.mein-sect{
+    display: flex;
+    justify-content: center;
+}
+
+.ind7{
+    display: flex;
+    flex-direction: colum;
+}
+
+.Nlorem{
+    width: 334px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 .mein-indonesia{
     color: var(--mein-wite);
@@ -198,7 +322,6 @@ font-style: normal;
 font-weight: 400;
 line-height: 28px; /* 155.556% */
 letter-spacing: 0.5px;
-width: 484px;
 text-align: center;
 
 }
@@ -224,6 +347,10 @@ font-size: 42px;
 font-style: normal;
 font-weight: 700;
 line-height: 50px; 
+width: 614px;
+height: 100px;
+text-align: center;
+margin-left: 250px;
 }
 
 .learn-more{
@@ -233,6 +360,8 @@ font-size: 18px;
 font-style: normal;
 font-weight: 700;
 line-height: 150%; /* 27px */
+background-color: var(--Main-Red);
+margin-left: 480px;
 }
 
 .life{
@@ -242,6 +371,9 @@ font-size: 42px;
 font-style: normal;
 font-weight: 700;
 line-height: 50px; /* 119.048% */
+width: 1056px;
+height: 142px;
+text-align: center;
 }
 
 .City{
